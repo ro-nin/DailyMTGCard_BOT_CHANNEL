@@ -4,5 +4,5 @@ A simple Telegram bot written in python used in combination with a Telegram Chan
 
 The bot is hosted on a webhook via Flask.
 
-Istance of the bot can be found at [DailyMtg_Bot](https://t.me/DailyMtg_bot), while the currently active channel is [here](https://t.me/dailymtg)
+Instance of the running bot can be found at [DailyMtg_Bot](https://t.me/DailyMtg_bot), while the currently active channel is [here](https://t.me/dailymtg)
 
